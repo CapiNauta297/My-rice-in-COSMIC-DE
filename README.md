@@ -29,6 +29,6 @@ Hi I love COSMIC DE so I'm going to save my settings here
 
 - **Extension [ThemeSong for Youtube Music](https://addons.mozilla.org/en-US/firefox/addon/themesong-for-youtube-music/)** with **[Zen Browser](https://zen-browser.app/)** ([Third image](./screenshots/Screenshot_2026-05-23_12-29-54.png))
 
-> Thanks for cheking my rice :)
+> Thanks for checking my rice :)
 
 note: I don't speak English, so I used a translator :(
