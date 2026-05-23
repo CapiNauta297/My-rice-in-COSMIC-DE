@@ -21,13 +21,13 @@ Hi I love COSMIC DE so I'm going to save my settings here
 ![Escritorio 4](./screenshots/Screenshot_2026-05-23_12-30-57.png)
 
 # ADDITIONALS
-- **CLI TOOLS I USED** (Second image)
+- **CLI TOOLS I USED** ([Second image](./screenshots/Screenshot_2026-05-23_12-27-49.png))
   - **Fastfetch**
   - **Cava**
   - **tty-clock**
   - **Btop** (theme greyscale)
 
-- **Extension [ThemeSong for Youtube Music](https://addons.mozilla.org/en-US/firefox/addon/themesong-for-youtube-music/)** with **[Zen Browser](https://zen-browser.app/)** (Third image)
+- **Extension [ThemeSong for Youtube Music](https://addons.mozilla.org/en-US/firefox/addon/themesong-for-youtube-music/)** with **[Zen Browser](https://zen-browser.app/)** ([Third image](./screenshots/Screenshot_2026-05-23_12-29-54.png))
 
 > Thanks for see my rice :)
 
