@@ -10,11 +10,21 @@ hola amo COSMIC DE y me encanta entonces voy a guardar mi configracion aca si si
   - **Numbered Workspaces** para ver mis areas de trabajos
 - Cambie el color de mi escritorio desde Cosmic Settings a un color Blanco Puro, pero si quieres puedes ver los colores [aca](https://github.com/CapiNauta297/Dotfiles-epikos-tremendos/blob/main/escritorio.ron) (Si quieres importarlo solo descarga el .ron y importalo en configuracion)
 
-  # Capturas de pantalla
-![Escritorio 1](./screenshots/Screenshot_2026-05-23_12-27-49.png)
+  # CAPTURAS DE PANTALLA
 
-![Escritorio 2](./screenshots/Screenshot_2026-05-23_12-28-22.png)
+![Escritorio 1](./screenshots/Screenshot_2026-05-23_12-28-22.png)
+
+![Escritorio 2](./screenshots/Screenshot_2026-05-23_12-27-49.png)
 
 ![Escritorio 3](./screenshots/Screenshot_2026-05-23_12-29-54.png)
 
 ![Escritorio 4](./screenshots/Screenshot_2026-05-23_12-30-57.png)
+
+# ADICIONALES
+- **CLI TOOLS QUE USE** (Segunda imagen)
+  - **Fastfetch**
+  - **Cava**
+  - **tty-clock**
+  - **Btop**
+
+- **Extension [ThemeSong for Youtube Music](https://addons.mozilla.org/en-US/firefox/addon/themesong-for-youtube-music/)** con **[Zen Browser](https://zen-browser.app/)** (Tercera Imagen)
