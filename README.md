@@ -6,7 +6,7 @@ Hi I love COSMIC DE so I'm going to save my settings here
 - Set my [wallpaper](https://github.com/CapiNauta297/Dotfiles-epikos-tremendos/blob/main/wallpapers/fondo%20epiko%20me%20encanta.jpg)
 -And add some applets that I found in the cosmic-store
   - **Sysinfo**, to see my CPU, RAM and Bitrates
-  -  **Weather**, to check the, weather??
+  - **Multimedia Player** of the Sound Applet
   - **Numbered Workspaces** to view my workspaces
 - I changed my desktop color from Cosmic Settings to a pure white with a grey background, but you can see the colors [here](https://github.com/CapiNauta297/Dotfiles-epikos-tremendos/blob/main/escritorio.ron) (If you want to import it, just download the .ron file and import it in the settings)
 
