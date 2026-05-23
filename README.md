@@ -25,7 +25,7 @@ Hi I love COSMIC DE so I'm going to save my settings here
   - **Fastfetch**
   - **Cava**
   - **tty-clock**
-  - **Btop**
+  - **Btop** (theme greyscale)
 
 - **Extension [ThemeSong for Youtube Music](https://addons.mozilla.org/en-US/firefox/addon/themesong-for-youtube-music/)** with **[Zen Browser](https://zen-browser.app/)** (Third image)
 
