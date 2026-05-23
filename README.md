@@ -8,7 +8,7 @@ Hi I love COSMIC DE so I'm going to save my settings here
   - **Sysinfo**, to see my CPU, RAM and Bitrates
   - **Multimedia Player** of the Sound Applet
   - **Numbered Workspaces** to view my workspaces
-- I changed my desktop color from Cosmic Settings to a pure white with a grey background, but you can see the colors [here](https://github.com/CapiNauta297/Dotfiles-epikos-tremendos/blob/main/escritorio.ron) (If you want to import it, just download the .ron file and import it in the settings)
+- I changed my desktop color from Cosmic Settings to a pure white (#DFDFDF) with a grey background( #1F2324), but you can my config [here](https://github.com/CapiNauta297/Dotfiles-epikos-tremendos/blob/main/escritorio.ron) (If you want to import it, just download the .ron file and import it in the settings)
 
 # SCREENSHOTS
 
