@@ -29,4 +29,4 @@ hola amo COSMIC DE y me encanta entonces voy a guardar mi configracion aca si si
 
 - **Extension [ThemeSong for Youtube Music](https://addons.mozilla.org/en-US/firefox/addon/themesong-for-youtube-music/)** con **[Zen Browser](https://zen-browser.app/)** (Tercera Imagen)
 
-<small>Gracias por ver mi rice, espero mejorar en este ambbito siiii</small>
+> Gracias por ver mi rice, espero mejorar en este ambbito siiii
