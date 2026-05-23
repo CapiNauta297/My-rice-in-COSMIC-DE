@@ -22,10 +22,10 @@ Hi I love COSMIC DE so I'm going to save my settings here
 
 # ADDITIONALS
 - **CLI TOOLS I USED** ([Second image](./screenshots/Screenshot_2026-05-23_12-27-49.png))
-  - **Fastfetch**
-  - **Cava**
-  - **tty-clock**
-  - **Btop** (theme greyscale)
+  - [**Fastfetch**](https://github.com/fastfetch-cli/fastfetch)
+  - [**Cava**](https://github.com/karlstav/cava)
+  - [**tty-clock**](https://github.com/xorg62/tty-clock) (My command: tty-clock -c -C 7)
+  - [**Btop**](https://github.com/aristocratos/btop) (theme greyscale)
 
 - **Extension [ThemeSong for Youtube Music](https://addons.mozilla.org/en-US/firefox/addon/themesong-for-youtube-music/)** with **[Zen Browser](https://zen-browser.app/)** ([Third image](./screenshots/Screenshot_2026-05-23_12-29-54.png))
 
