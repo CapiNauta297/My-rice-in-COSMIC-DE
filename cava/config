@@ -1,0 +1,17 @@
+[general]
+framerate = 60
+
+[input]
+method = pulse
+source = auto
+
+[output]
+channels = stereo
+
+[smoothing]
+noise_reduction = 77
+
+[color]
+gradient = 0
+foreground = 'white'
+
