@@ -1,7 +1,7 @@
 Hi I love COSMIC DE so I'm going to save my settings here 
 
 # WHAT I DID ON MY DESK WAAA
-- Remove cosmic-dock
+- Remove `cosmic-dock`
 - I separated the panel and made it 50% transparent
 - Set my [wallpaper](https://github.com/CapiNauta297/Dotfiles-epikos-tremendos/blob/main/wallpapers/fondo%20epiko%20me%20encanta.jpg)
 -And add some applets that I found in the cosmic-store
@@ -24,7 +24,7 @@ Hi I love COSMIC DE so I'm going to save my settings here
 - **CLI TOOLS I USED** ([Second image](./screenshots/Screenshot_2026-05-23_12-27-49.png))
   - [**Fastfetch**](https://github.com/fastfetch-cli/fastfetch)
   - [**Cava**](https://github.com/karlstav/cava)
-  - [**tty-clock**](https://github.com/xorg62/tty-clock) (My command: tty-clock -c -C 7)
+  - [**tty-clock**](https://github.com/xorg62/tty-clock) (My command: `tty-clock -c -C 7`)
   - [**Btop**](https://github.com/aristocratos/btop) (theme greyscale)
 
 - **Extension [ThemeSong for Youtube Music](https://addons.mozilla.org/en-US/firefox/addon/themesong-for-youtube-music/)** with **[Zen Browser](https://zen-browser.app/)** ([Third image](./screenshots/Screenshot_2026-05-23_12-29-54.png))
