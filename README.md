@@ -2,7 +2,7 @@ Hi I love COSMIC DE so I'm going to save my settings here
 
 # WHAT I DID ON MY DESKTOP WAAA
 - Removed `cosmic-dock`
-- I separated the panel and made it 50% transparent
+- Separated the panel and made it 50% transparent
 - Set this [wallpaper](https://github.com/CapiNauta297/Dotfiles-epikos-tremendos/blob/main/wallpapers/fondo%20epiko%20me%20encanta.jpg) 
 - Added some applets from the `cosmic-store`
   - **Sysinfo**, to see my CPU, RAM and network usage
