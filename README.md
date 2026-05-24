@@ -22,6 +22,7 @@ Hi I love COSMIC DE so I'm going to save my settings here
 ### Media & Browser
 ![Escritorio 3](./screenshots/Screenshot_2026-05-23_12-29-54.png)
 
+### Work ;)
 ![Escritorio 4](./screenshots/Screenshot_2026-05-23_12-30-57.png)
 
 ## ADDITIONALS
