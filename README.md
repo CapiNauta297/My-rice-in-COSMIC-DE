@@ -16,7 +16,7 @@ Hi I love COSMIC DE so I'm going to save my settings here
 ### Desktop
 ![Escritorio 1](./screenshots/Screenshot_2026-05-23_12-28-22.png)
 
-### CLI Tools
+### CLI Tools Setup
 ![Escritorio 2](./screenshots/Screenshot_2026-05-23_12-27-49.png)
 
 ### Media & Browser
