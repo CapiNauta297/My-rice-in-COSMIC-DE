@@ -33,4 +33,4 @@ Hi I love COSMIC DE so I'm going to save my settings here
 
 > Thanks for checking my rice :)
 
-Note: English is not my first language, so I used a translator :)))*
+Note: English is not my first language, so I used a translator :)))
