@@ -22,6 +22,7 @@ Hi I love COSMIC DE so I'm going to save my settings here
 
 ## ADDITIONALS
 - **CLI TOOLS I USED** ([Second image](./screenshots/Screenshot_2026-05-23_12-27-49.png))
+  - I use `cosmic-term` with Mono Font Nerde
   - [**Fastfetch**](https://github.com/fastfetch-cli/fastfetch)
   - [**Cava**](https://github.com/karlstav/cava)
   - [**tty-clock**](https://github.com/xorg62/tty-clock) (My command: `tty-clock -c -C 7`)
