@@ -3,12 +3,12 @@ Hi I love COSMIC DE so I'm going to save my settings here
 # WHAT I DID ON MY DESK WAAA
 - Remove `cosmic-dock`
 - I separated the panel and made it 50% transparent
-- Set my [wallpaper](https://github.com/CapiNauta297/Dotfiles-epikos-tremendos/blob/main/wallpapers/fondo%20epiko%20me%20encanta.jpg) 
+- Set this [wallpaper](https://github.com/CapiNauta297/Dotfiles-epikos-tremendos/blob/main/wallpapers/fondo%20epiko%20me%20encanta.jpg) 
 - And add some applets that I found in the `cosmic-store`
   - **Sysinfo**, to see my CPU, RAM and Bitrates
-  - **Multimedia Player** of the Sound Applet
+  - **Multimedia Player** from the Sound Applet Native
   - **Numbered Workspaces** to view my workspaces
-- I changed my desktop color from Cosmic Settings to a pure white (#DFDFDF) with a grey background( #1F2324), but you can find my config [here](https://github.com/CapiNauta297/Dotfiles-epikos-tremendos/blob/main/escritorio.ron) (If you want to import it, just download the .ron file and import it in the settings)
+- I changed my desktop color from Cosmic Settings to a pure white (#DFDFDF) with a grey background (#1F2324), but you can find my config [here](https://github.com/CapiNauta297/Dotfiles-epikos-tremendos/blob/main/escritorio.ron) (If you want to import it, just download the .ron file and import it in the settings)
 
 ## SCREENSHOTS
 
@@ -22,11 +22,11 @@ Hi I love COSMIC DE so I'm going to save my settings here
 
 ## ADDITIONALS
 - **CLI TOOLS I USED** ([Second image](./screenshots/Screenshot_2026-05-23_12-27-49.png))
-  - I use `cosmic-term` with Mono Font Nerd
+  - I use `cosmic-term` with Mono Nerd Font
   - [**Fastfetch**](https://github.com/fastfetch-cli/fastfetch)
   - [**Cava**](https://github.com/karlstav/cava)
   - [**tty-clock**](https://github.com/xorg62/tty-clock) (My command: `tty-clock -c -C 7`)
-  - [**Btop**](https://github.com/aristocratos/btop) (theme greyscale)
+  - [**Btop**](https://github.com/aristocratos/btop) with Greyscale Theme
 
 - **Extension [ThemeSong for Youtube Music](https://addons.mozilla.org/en-US/firefox/addon/themesong-for-youtube-music/)** with **[Zen Browser](https://zen-browser.app/)** ([Third image](./screenshots/Screenshot_2026-05-23_12-29-54.png))
 
