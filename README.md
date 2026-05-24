@@ -10,7 +10,7 @@ Hi I love COSMIC DE so I'm going to save my settings here
   - **Numbered Workspaces** to view my workspaces
 - I changed my desktop color from Cosmic Settings to a pure white (#DFDFDF) with a grey background( #1F2324), but you can find my config [here](https://github.com/CapiNauta297/Dotfiles-epikos-tremendos/blob/main/escritorio.ron) (If you want to import it, just download the .ron file and import it in the settings)
 
-# SCREENSHOTS
+## SCREENSHOTS
 
 ![Escritorio 1](./screenshots/Screenshot_2026-05-23_12-28-22.png)
 
