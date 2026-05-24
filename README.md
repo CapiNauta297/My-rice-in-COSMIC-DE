@@ -20,7 +20,7 @@ Hi I love COSMIC DE so I'm going to save my settings here
 
 ![Escritorio 4](./screenshots/Screenshot_2026-05-23_12-30-57.png)
 
-# ADDITIONALS
+## ADDITIONALS
 - **CLI TOOLS I USED** ([Second image](./screenshots/Screenshot_2026-05-23_12-27-49.png))
   - [**Fastfetch**](https://github.com/fastfetch-cli/fastfetch)
   - [**Cava**](https://github.com/karlstav/cava)
