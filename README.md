@@ -1,12 +1,12 @@
 Hi I love COSMIC DE so I'm going to save my settings here 
 
 # WHAT I DID ON MY DESK WAAA
-- Remove `cosmic-dock`
+- Removed `cosmic-dock`
 - I separated the panel and made it 50% transparent
 - Set this [wallpaper](https://github.com/CapiNauta297/Dotfiles-epikos-tremendos/blob/main/wallpapers/fondo%20epiko%20me%20encanta.jpg) 
-- And add some applets that I found in the `cosmic-store`
-  - **Sysinfo**, to see my CPU, RAM and Bitrates
-  - **Multimedia Player** from the Sound Applet Native
+- Added some applets from the `cosmic-store`
+  - **Sysinfo**, to see my CPU, RAM and network usage
+  - **Media Player** from the native Sound Applet
   - **Numbered Workspaces** to view my workspaces
 - I changed my desktop color from Cosmic Settings to a pure white (#DFDFDF) with a grey background (#1F2324), but you can find my config [here](https://github.com/CapiNauta297/Dotfiles-epikos-tremendos/blob/main/escritorio.ron) (If you want to import it, just download the .ron file and import it in the settings)
 
@@ -32,4 +32,4 @@ Hi I love COSMIC DE so I'm going to save my settings here
 
 > Thanks for checking my rice :)
 
-note: I don't speak English, so I used a translator :(
+note: English is not my first language, so I used a translator :(
