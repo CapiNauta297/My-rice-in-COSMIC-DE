@@ -28,7 +28,7 @@ Hi I love COSMIC DE so I'm going to save my settings here
 ## ADDITIONALS
 - **CLI TOOLS I USED** ([Second image](./screenshots/Screenshot_2026-05-23_12-27-49.png))
   - I use `cosmic-term` with Mono Nerd Font
-  - [**Starship**](https://github.com/starship/starship) (With my [custom minimal white theme](https://github.com/CapiNauta297/My-rice-in-COSMIC-DE/blob/main/starship.toml)
+  - [**Starship**](https://github.com/starship/starship) (With my [custom minimal white theme](https://github.com/CapiNauta297/My-rice-in-COSMIC-DE/blob/main/starship.toml))
   - [**Fastfetch**](https://github.com/fastfetch-cli/fastfetch)
   - [**Cava**](https://github.com/karlstav/cava)
   - [**tty-clock**](https://github.com/xorg62/tty-clock) (My command: `tty-clock -c -C 7`)
