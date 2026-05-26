@@ -1,4 +1,4 @@
-format = """[camilo](bold white) in [$directory](bold white) $character"""
+format = """[$username](bold white) in [$directory](bold white) $character"""
 
 [directory]
 style = "bold white"
