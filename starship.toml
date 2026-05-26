@@ -1,0 +1,9 @@
+format = """[camilo](bold white) in [$directory](bold white) $character"""
+
+[directory]
+style = "bold white"
+format = "[$path]($style) "
+
+[character]
+success_symbol = "[→](bold white) "
+error_symbol = "[→](bold red) "
